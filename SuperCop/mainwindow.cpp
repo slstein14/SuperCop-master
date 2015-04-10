@@ -5,6 +5,7 @@
 #include "ui_mainwindow.h"
 #include "supercop_game.h"
 
+
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
